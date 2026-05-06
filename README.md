@@ -34,11 +34,11 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruvil7582&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dhruvil7582&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://img.shields.io/badge/Top%20Langs-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20Python-informational?style=flat-square)
-
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhruvil7582&theme=tokyonight)
 
 ## 📫 Let's Connect
 
