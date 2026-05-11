@@ -34,11 +34,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruvil7582&theme=tokyonight)
+![Dhruvil7582's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruvil7582&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dhruvil7582&theme=tokyonight&hide_border=true)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhruvil7582&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil7582&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect
 
