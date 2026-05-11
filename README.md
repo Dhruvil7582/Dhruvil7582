@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhruvil%20Asodariya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Web%20Dev%20%7C%20AI%2FML%20Explorer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhruvil%20Asodariya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Dev%20%7C%20AI%2FML%20Explorer&descAlignY=58&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+the+web+today.;Teaching+machines+tomorrow.;Open+to+Work+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 ```python
 class Dhruvil:
     name       = "Dhruvil Asodariya"
-    role       = "CS Student & Aspiring Full-Stack Developer"
+    role       = "CSE AI/ML Student & Aspiring Full-Stack Developer"
     location   = "India 🇮🇳"
     status     = "Open to Work 🟢"
 
@@ -29,7 +29,7 @@ class Dhruvil:
     ]
 
     interests  = ["Web Development", "AI/ML", "Open Source", "System Design"]
-    ask_me_about = ["HTML/CSS/JS", "Python", "MySQL", "ML basics"]
+    ask_me_about = ["HTML/CSS/JS","React", "Python", "MySQL", "ML basics"]
     fun_fact   = "I debug with print() and I'm not ashamed 🐛"
 ```
 
