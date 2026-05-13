@@ -118,7 +118,7 @@ class Dhruvil:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🚀 Launch the Live Blog Platform
 - [ ] 🤖 Complete a full ML project end-to-end
