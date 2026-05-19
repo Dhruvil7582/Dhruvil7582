@@ -98,10 +98,6 @@ class Dhruvil:
 > ℹ️ Stats may take a moment to load — they're fetched live from the GitHub API.
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruvil7582&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil7582&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" />
-
 </div>
 
 <div align="center">
